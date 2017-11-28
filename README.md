@@ -8,6 +8,14 @@ body {
 </head>
 <body>
 
+<h2>My First JavaScript</h2>
+
+<button type="button"
+onclick="document.getElementById('demo').innerHTML = Date()">
+Click me to display Date and Time.</button>
+
+<p id="demo"></p>
+
 <h1> A Level Coursework </h1>
 <p> For my A levels I take:  German </p>
 <img src="https://images-na.ssl-images-amazon.com/images/I/21VUax%2BPBhL._SX355_.jpg" width="300" height="300"><br>

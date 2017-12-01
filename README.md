@@ -17,7 +17,7 @@ Click me first and display Date and Time.</button>
 <h1> A Level Coursework </h1>
 <p> For my A levels I take:  German </p>
 <img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/1200px-Flag_of_Germany.svg.png" width="400" height="250"><br>
-<p> For my German coursework I am researching the Stast- the secret police in Germany during the time that the country was divided. I will then be examined on my research in my speaking exam in the summer! </p>
+<p> For my German coursework I am researching the Stasi- the secret police in Germany during the time that the country was divided. I will then be examined on my research during my speaking exam in the summer! </p>
 <p id="demo"></p>
 <button type="button" onclick="myFunction()">Press me and look to the header!</button>
 <script>

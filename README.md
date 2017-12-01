@@ -16,7 +16,7 @@ Click me to display Date and Time.</button>
 
 <h1> A Level Coursework </h1>
 <p> For my A levels I take:  German </p>
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/1200px-Flag_of_Germany.svg.png" width="400" height="400"><br>
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/1200px-Flag_of_Germany.svg.png" width="400" height="200"><br>
 <p> Maths </p>
 <img src="http://data.learnpad.co/organizations/1/primary_maths.png?date=1392368039&size=49171" width="300" height="300"><br>
 <p> and Computer Science (Obviously!)</p>

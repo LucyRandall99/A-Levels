@@ -17,12 +17,8 @@ Click me to display Date and Time.</button>
 <h1> A Level Coursework </h1>
 <p> For my A levels I take:  German </p>
 <img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/1200px-Flag_of_Germany.svg.png" width="400" height="250"><br>
-<h2>JavaScript in Body</h2>
-
 <p id="demo">A Paragraph.</p>
-
 <button type="button" onclick="myFunction()">Try it</button>
-
 <script>
 function myFunction() {
     document.getElementById("demo").innerHTML = "Paragraph changed.";

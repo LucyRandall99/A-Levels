@@ -21,7 +21,7 @@ Click me to display Date and Time.</button>
 <button type="button" onclick="myFunction()">Try it</button>
 <script>
 function myFunction() {
-    document.getElementById("demo").innerHTML = "Paragraph changed.";
+    document.getElementById("demo").innerHTML = "The time has vanished!...";
 }
 </script>
 

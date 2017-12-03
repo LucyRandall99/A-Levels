@@ -15,7 +15,8 @@ Click me first and display Date and Time.</button>
 <p id="demo"></p>
 
 <h1> A Level Coursework </h1>
-<p> For my A levels I take:  German </p>
+<p> For my A levels I take: </p>
+<p> German </p>
 <img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/1200px-Flag_of_Germany.svg.png" width="400" height="250"><br>
 <p> For my German coursework I am researching the Stasi- the secret police in Germany during the time that the country was divided. I will then be examined on my research during my speaking exam in the summer! </p>
 <p id="demo"></p>
@@ -29,7 +30,7 @@ function myFunction() {
 <p> Maths </p>
 <img src="http://data.learnpad.co/organizations/1/primary_maths.png?date=1392368039&size=49171" width="300" height="300"><br>
 <p>There is no coursework for Maths, but I will take exams in Core 3, Core 4, Mechanics 1 and Decisions 1 in the summer. </p> 
-<p> and Computer Science (Obviously!)</p>
+<p> Computer Science </p>
 <img src="https://static.kent.ac.uk/nexus/ems/50.jpg" width="400" height="250"><br>
 <p> For my Computer Science coursework I am creating a football predictor that analyses past results to generate predictions for upcoming matches. </p>
 
